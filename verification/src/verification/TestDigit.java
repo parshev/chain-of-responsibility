@@ -16,7 +16,6 @@ public class TestDigit extends A_V{
 
 	@Override
 	public void success(String str) {
-		//System.out.println("digit: yes");
 		nextNode.test(str);
 		return;
 	}

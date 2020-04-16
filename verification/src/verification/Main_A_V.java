@@ -17,9 +17,8 @@ public class Main_A_V {
 		
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-		String pass = "faq1swdAer";
+		String pass = "jsdlksfdA1er";
 		A_V chein = getChein();
 		chein.test(pass);
 		
